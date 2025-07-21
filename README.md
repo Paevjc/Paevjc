@@ -3,7 +3,7 @@ An aspiring Data Scientist, passionate about uncovering patterns and deriving da
 
 🎓 As of 2025, I earned my Bachelor's in Data Science and Business Analytics, and I'm excited to further develop my skills and contribute to the field.
 
-# Little insights 🌟
+## Little insights 🌟
 - 🔭 I’m currently working on backtesting and ML frameworks for quantitative trading strategies
 - 🌱 I’m currently learning Generative AI, RAG systems and LangChain architectures
 - ⚡ Fun fact: I have two cats, one naps on my lap while I code, and the other walks on my keyboard during bathroom breaks.
