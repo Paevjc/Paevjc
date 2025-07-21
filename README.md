@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there! I'm Jeriel 👋
+An aspiring Data Scientist, passionate about uncovering patterns and deriving data-driven solutions. I am looking to delve into the fields of Artificial Intelligence 🤖 and Finance 💹.
+
+🎓 As of 2025, I earned my Bachelor's in Data Science and Business Analytics, and I'm excited to further develop my skills and contribute to the field.
+
+# Little insights 🌟
+- 🔭 I’m currently working on backtesting and ML frameworks for quantitative trading strategies
+- 🌱 I’m currently learning Generative AI, RAG systems and LangChain architectures
+- ⚡ Fun fact: I have two cats, one naps on my lap while I code, and the other walks on my keyboard during bathroom breaks.
+- 📫 Reach me via cjhj3@student.london.ac.uk or LinkedIn
 
 <!--
 **Paevjc/Paevjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
