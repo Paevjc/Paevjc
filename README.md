@@ -6,7 +6,7 @@ An aspiring Data Scientist, passionate about uncovering patterns and deriving da
 ## Little insights 🌟
 - 🔭 I’m currently working on backtesting and ML frameworks for quantitative trading strategies
 - 🌱 I’m currently learning Generative AI, RAG systems and LangChain architectures
-- ⚡ Fun fact: I have two cats, one naps on my lap while I code, and the other walks on my keyboard during bathroom breaks.
+- ⚡ Fun fact: I have two cats; one naps on my lap while I code, and the other walks on my keyboard during bathroom breaks
 - 📫 Reach me via cjhj3@student.london.ac.uk or LinkedIn
 
 <!--
